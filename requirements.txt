@@ -1,0 +1,22 @@
+PyQt6==6.7.0
+PyQt6-tools==6.7.0
+sqlite3  # built-in
+scikit-learn==1.5.1
+pandas==2.2.2
+numpy==2.1.0
+matplotlib==3.9.2
+psutil==6.0.0
+watchdog==5.0.2
+reportlab==4.2.2  # PDF generation
+pyqtgraph==0.13.7  # Fast plotting
+threading  # built-in
+queue  # built-in
+datetime  # built-in
+json  # built-in
+logging  # built-in
+os  # built-in
+sys  # built-in
+subprocess  # built-in
+re  # built-in
+collections  # built-in
+
